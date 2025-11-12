@@ -1,2 +1,2 @@
-# Pasjansa
-Igra pasjansa
+# Spomin
+Igra spomina

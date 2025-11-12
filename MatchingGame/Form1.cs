@@ -95,7 +95,7 @@ namespace MatchingGame
                 }
             }
 
-            MessageBox.Show("You matched all the icons!", "Congratulations");
+            MessageBox.Show("Dobil si vse pare!", "Čestitke");
             Close();
         }
     }

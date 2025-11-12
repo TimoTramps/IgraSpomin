@@ -1,2 +1,2 @@
 # Spomin
-Igra spomina
+Igra spomina za nalogo v Programiranju

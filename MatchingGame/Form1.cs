@@ -95,7 +95,7 @@ namespace MatchingGame
                 }
             }
 
-            MessageBox.Show("Dobil si vse pare!", "Čestitke");
+            MessageBox.Show("Čestitke! Dobil si vse pare!", "Hvala za igranje ;)");
             Close();
         }
     }
